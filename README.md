@@ -19,10 +19,19 @@
 pip install -r requirements.txt
 ```
 
-2. 运行
+2. 环境变量
+SPEECH_KEY和SPEECH_REGION需要去申请azure账号
 
 ```bash
-python src/speech_chat.py
+setx OPENAI_API_KEY sk-xxx
+setx SPEECH_KEY sk-xxx
+setx SPEECH_REGION sk-xxx
+```
+
+3. 运行
+
+```bash
+python speech_chat.py
 ```
 
 #### 运行效果截图
