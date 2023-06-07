@@ -24,4 +24,4 @@ python src/speech_chat.py
 
 #### 运行效果截图
 
-![效果1](/img/result1.png)
+![效果1](img/效果1.png)
