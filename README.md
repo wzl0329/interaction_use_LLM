@@ -20,12 +20,13 @@ pip install -r requirements.txt
 ```
 
 2. 环境变量
+
 SPEECH_KEY和SPEECH_REGION需要去申请azure账号
 
 ```bash
 setx OPENAI_API_KEY sk-xxx
-setx SPEECH_KEY sk-xxx
-setx SPEECH_REGION sk-xxx
+setx SPEECH_KEY xxx
+setx SPEECH_REGION xxx
 ```
 
 3. 运行
