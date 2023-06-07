@@ -1,0 +1,2 @@
+openai==0.27.6
+azure-cognitiveservices-speech==1.29.0
